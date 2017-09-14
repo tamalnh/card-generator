@@ -6,7 +6,7 @@
 
 > Import the SQL file in Database form database folder.
 
-*Have Fun
+******************************** Have Fun *********************************
 
 
 
