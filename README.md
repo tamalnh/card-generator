@@ -1,4 +1,4 @@
-# Besic Card generator With Dynamic QR code
+# Besic Card Generator With Dynamic QR code
 
 ###### Preview
 
@@ -6,7 +6,7 @@
 
 > Import the SQL file in Database form database folder.
 
-******************************** Have Fun *********************************
+******************************** have fun *********************************
 
 
 
